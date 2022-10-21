@@ -12,3 +12,7 @@
 ### Kevin
 
 [Kevin story](https://despicableme.fandom.com/ru/wiki/Кевин)
+
+---
+### Stuart
+[Stuart story](https://despicableme.fandom.com/ru/wiki/Стюарт)
