@@ -21,5 +21,10 @@
 ### Bob
 [Bob story](https://despicableme.fandom.com/ru/wiki/Боб)
 
+
+> *"Ba-na-na!"*
+>
+>All of minions
+
 ---
 # Thank you for attention
