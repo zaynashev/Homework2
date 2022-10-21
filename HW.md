@@ -16,3 +16,7 @@
 ---
 ### Stuart
 [Stuart story](https://despicableme.fandom.com/ru/wiki/Стюарт)
+
+---
+### Bob
+[Bob story](https://despicableme.fandom.com/ru/wiki/Боб)
