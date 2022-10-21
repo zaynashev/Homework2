@@ -7,3 +7,8 @@
 * [Kevin]
 * [Bob]
 * [Stuart]
+
+---
+### Kevin
+
+[Kevin story](https://despicableme.fandom.com/ru/wiki/Кевин)
