@@ -4,9 +4,9 @@
 
 ---
 ## The main characters
-Kevin 
-Bob
-Stuart
+* [Kevin](#kevin)
+* [Bob](#bob)
+* [Stuart](#stuart)
 
 ---
 ### Kevin
