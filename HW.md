@@ -4,22 +4,15 @@
 
 ---
 ## The main characters
-* [Kevin](#kevin)
-* [Bob](#bob)
-* [Stuart](#stuart)
 
 ---
 ### Kevin
 
-[Kevin story](https://despicableme.fandom.com/ru/wiki/Кевин)
-
 ---
 ### Stuart
-[Stuart story](https://despicableme.fandom.com/ru/wiki/Стюарт)
 
 ---
 ### Bob
-[Bob story](https://despicableme.fandom.com/ru/wiki/Боб)
 
 
 > *"Ba-na-na!"*
