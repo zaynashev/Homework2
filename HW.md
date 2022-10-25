@@ -7,6 +7,9 @@
 
 ---
 ### Kevin
+[Kevin story](https://despicableme.fandom.com/ru/wiki/Кевин)
+
+![Kevin](kevin.webp)
 
 ---
 ### Stuart
