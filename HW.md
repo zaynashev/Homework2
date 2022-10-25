@@ -14,6 +14,9 @@
 ---
 ### Stuart
 
+[Stuart story](https://despicableme.fandom.com/ru/wiki/Стюарт)
+![Stuart](Stuart.webp)
+
 ---
 ### Bob
 
