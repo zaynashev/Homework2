@@ -17,6 +17,8 @@
 ---
 ### Bob
 
+[Bob story](https://despicableme.fandom.com/ru/wiki/Боб)
+![Bob](Bob.webp)
 
 > *"Ba-na-na!"*
 >
