@@ -4,6 +4,9 @@
 
 ---
 ## The main characters
+Kevin 
+Bob
+Stuart
 
 ---
 ### Kevin
